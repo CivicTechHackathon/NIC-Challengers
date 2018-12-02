@@ -15,3 +15,5 @@ then a dev tab will open in your browser where all the files will load but to vi
 To run the app over your phone, your phone should be on the same network as your pc.
  Now click on lan mode and scan the barcode on the dev tab on your browser that opened earlier and the app will launch in your android phone.
 # FOR LIVE PREVIEW OF WEBSITE 
+
+https://civictechhackathon.github.io/NIC-Challengers/webBased/index.html
